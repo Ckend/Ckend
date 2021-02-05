@@ -12,4 +12,4 @@
 
 ### 项目
 [![pythondict-quant](https://img.shields.io/badge/pythondict-quant-192133?style=flat-square)](https://github.com/Ckend/pythondict-quant)
-[![scihub-cn](https://github.com/Ckend/scihub-cn)](https://github.com/Ckend/scihub-cn)
+[![scihub-cn](https://img.shields.io/badge/scihub-cn-192133?style=flat-square)](https://github.com/Ckend/scihub-cn)
