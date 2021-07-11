@@ -1,0 +1,94 @@
+参与约10个工程项目的开发，负责维护分布式集群，主要做数据工程开发和后端开发。
+1. 8个大型直播平台弹幕的分布式爬虫集群开发与维护，分析改进各个平台爬取机制，增加重试机制及代理分数模型，使用NER识别比赛房间(F1:98%)等。
+2. 利用统计学方面的知识进行数学建模，对集群爬取得到的数据进行分析等。
+3. 利用机器学习进行短文本数据挖掘，识别文本情感(acc:95%)，提取玩家意见，并汇总制图。
+4. 使用Python的Flask快速开发导出系统，统一导出所有的数据文件。
+5. 快速阅读并分析前端代码，使用逆向技术开发多种类型的爬虫。
+6. 在职期间，主导或参与改进了1个大型项目（分布式爬虫集群）、5个中型项目（后端导出系统、情感分析等）和4个小型项目（大型网站爬虫系统）
+
+1. Developed and maintained the distributed crawler of bullet screen(弹幕) on 8 large live streaming platforms(like twitch).
+2. Emotion detection and recognition from short text using Deep Learning(98% accuracy).
+3. Mathematical modeling and statistical data analysis on proxies data.
+4. Developed multiple crawlers with decompilation knowledge.
+5. Microservice development.
+Good at Data Cleaning, Web crawler, Databases(Mysql, Mongo) and NLP.
+
+I’m looking for a new opportunity that doesn’t exist at my current company where I can develop and expand my data analysis skills. And I hope I can be a Quant in the future.
+
+1. Developed the Lost and Found system and some websites of the association.
+2. Planned and Organized the 2017 South China Normal University freshman network security competition.
+
+Actively participated in many volunteer activities.
+
+I am so glad to have the opportunity to apply for these positions in bank of China. If you just give me a small chance. I will prove it to you that I will be one of the best decisions you'll ever make.
+
+The list of my awards:
+1. MCM/ICM, Meritorious Winner, 2018.
+2. Guangdong-Hong Kong-Macao Greater Bay Area IT application system development competition, Third prize, 2018.
+3. The 27th guangdong university software design competition, Excellent presentation award, 2018.
+4. Second prize of scholarship, 2019.
+5. SCNU CTF, First prize, 2017.
+
+The list of my websites projects:
+1. Machine learning automatically identifies food safety news: https://jizhianshi.com.
+2. Python tutorials website: https://pythondict.com
+
+Thank you for your time and consideration.
+
+
+软件著作权 极致安食系统(2019-04-23)
+学校综合奖学金二等奖(2019-03-10)
+第二十七届广东省高校软件作品设计竞赛：优秀展示奖
+2018年粤港澳大湾区IT应用系统开发大赛：三等奖
+2018年美国大学生数学建模大赛 一等奖(2018-04-02)
+2017年华南师范大学网络安全大赛：一等奖(2017-06-17)
+2017年华南师范大学IT特工向前冲：一等奖(2016-10-22)
+
+2016.10—2017.9 华南师大校学生会 - 干事： 
+1. 组织策划许多校园活动，如美食节、阳光体育节等。 
+2. 负责公众号推送编写及检查。 3. 负责现场组织拍照等事务。 
+2017.10—2018.9 华南师大网络协会 - 副部长： 
+1. 团队合作开发了失物招领系统和协会内部分网站。 
+2. 组织、策划2017年华南师大新生网络安全大赛。
+
+热爱技术，有进行全栈开发的能力。 热衷思考，有独立思考的能力。 热爱生活，有愿意分享与交流的心。 热衷于开源社区的建设，喜欢撰写技术型博客与网友进行交流。
+
+《基于互联网大数据的智能食品安全平台的构建与研究》：
+1. 基于机器学习对食品安全新闻数据进行分类
+2. 提取食品安全新闻发生的地点与时间特点
+3. 提取微博上的舆论热点
+等等
+
+
+为大众提供Python教程而搭建的网站。
+网站上百余篇文章均亲自编写。
+已经初具规模，具有社会影响力。
+
+1 公众号爬虫
+  基于中间人攻击的原理，利用anyproxy编写node.js脚本从公众号上爬取文章。
+2 腾讯/新浪新闻、微博数据
+  爬取腾讯新闻300万条数据，每隔五分钟爬取实时新浪新闻，及相关关键词微博。
+3 淘宝爬虫
+  获取某关键词的所有商品名称、店铺、销量、评论数、图片、优惠、出货地、原价等信息。
+
+腾讯科技有限公司 互动娱乐事业群——光子工作室 参与各类项目开发,包括但不限于:
+1、8个大型直播平台 弹幕的分布式爬虫集群 开发与维护,分析改进各个平台爬取机制，增加重试机制及代理分数模型,使用ner识别比赛房间(f1:98%)等。
+2、使用反编译知识，快速阅读并分析前端/逆向代码，使用多种逆向方法开发多种类型的爬虫。
+3、利用统计学方面的知识进行 数学建模，对集群爬取得到的数据进行分析等。
+4、利用 机器学习 进行短文本 数据挖掘 ,识别文本情感(acc:95%),提取玩家意见,并汇总制图。
+5、使用python的 flask快速开发数据导出系统,统一导出所有的数据文件。
+6、在职期间,主导或参与改进了1个大型项目(分布式爬虫集群)、5个中型项目(后端导出系统、情感分析等)和4个小型项目(大型网站爬虫系统)
+
+1）在腾讯曾参与多个工程项目，负责分布式集群开发与维护，如8个大型直播平台弹幕的分布式爬虫集群开发与维护、基于LSTM的命名实体识别比赛房间(F1:98%)、利用统计学方面的知识进行数学建模和数据分析、利用机器学习进行短文本数据挖掘，识别文本情感(acc:95%)、使用Flask框架开发微服务等等；2）极致安食网(https://jizhianshi.com/newsfilter)，基于PHP框架Laravel开发的国家级项目，并使用卷积神经网络自动从海量新闻中分类食品安全新闻(准确率:98%)；3）Python实用宝典网(https://pythondict.com)，为大众提供Python机器学习/深度学习等教程而搭建的网站。网站上百余篇文章均亲自编写。已经初具规模，具有社会影响力；4）博文：《基于LSTM分析股市26种日指标预测上涨》、《利用股市找到已有或潜在食品安全问题的上市企业》等等；
+
+曾在腾讯实习过半年，开发过许多工程项目，从后端到前端、从算法到数据挖掘都有相对于应届生来说比较全面和丰富的工程经验。个人热爱技术，有可以进行Web全栈开发和运维的能力。 热衷思考，有独立思考的能力。 热爱生活，有愿意分享与交流的心。 热衷于开源社区的建设，喜欢撰写技术型博客与网友进行交流。如果愿意给个机会，007都行！
+
+It is easy for me to finish the job.
+I have some websites, for example:
+
+pythondict: https://pythondict.com
+lovenvelope: http://lovenvelope.club
+alltoshare: https://alltoshare.com
+
+They are all posting articles automatically by web scrapper tools.
+I am a former Tencent engineer, and familiar with PHP and js.
